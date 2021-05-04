@@ -6,10 +6,11 @@
 1. [Дизайнеры](#Дизайнеры)
 2. [Модельеры](#Модельеры)
 
-# Знаки
+# Рабочие знаки
+
 :white_check_mark: Уже сделано.
-:black_square_button: В процессе
-:negative_squared_cross_mark: Не выполненно
+:black_square_button: В процессе.
+:negative_squared_cross_mark: Не выполненно.
 
 # Скриптеры
 
