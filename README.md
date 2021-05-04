@@ -9,7 +9,9 @@
 # Рабочие знаки
 
 :white_check_mark: Уже сделано.
+
 :black_square_button: В процессе.
+
 :negative_squared_cross_mark: Не выполненно.
 
 # Скриптеры
