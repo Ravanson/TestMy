@@ -19,7 +19,7 @@
 :warning: Срочно выполнить!
 
 # Скриптеры
-https://vk.com/ravanson
+https://vk.com/ravanson - Главный мозг
 
 [:arrow_up:Оглавление](#Оглавление)
 # Дизайнеры
@@ -31,13 +31,13 @@ https://vk.com/furt1ve - Киборг помноженный на бесконе
 [:arrow_up:Оглавление](#Оглавление)
 
 # Трудяги
-https://vk.com/ravanson
+https://vk.com/ravanson - фигарит 24/7
 
 [:arrow_up:Оглавление](#Оглавление)
 
 # Лентяи
-https://vk.com/alexander_westies
+https://vk.com/alexander_westies - главный Лентяй
 
-https://vk.com/ravanson
+https://vk.com/ravanson - просто лентяй
 
 [:arrow_up:Оглавление](#Оглавление)
