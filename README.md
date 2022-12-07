@@ -19,19 +19,20 @@
 :warning: Срочно выполнить!
 
 # Скриптеры
-
+https://vk.com/ravanson
 [:arrow_up:Оглавление](#Оглавление)
 # Дизайнеры
-
+https://vk.com/furt1ve - Киборг помноженный на бесконечность
 [:arrow_up:Оглавление](#Оглавление)
 # Модельеры
 
 [:arrow_up:Оглавление](#Оглавление)
 
 # Трудяги
-
+https://vk.com/ravanson
 [:arrow_up:Оглавление](#Оглавление)
 
 # Лентяи
-
+https://vk.com/alexander_westies
+https://vk.com/ravanson
 [:arrow_up:Оглавление](#Оглавление)
