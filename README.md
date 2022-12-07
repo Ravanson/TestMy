@@ -33,6 +33,6 @@ https://vk.com/ravanson
 [:arrow_up:Оглавление](#Оглавление)
 
 # Лентяи
-https://vk.com/alexander_westies
+https://vk.com/alexander_westies\n
 https://vk.com/ravanson
 [:arrow_up:Оглавление](#Оглавление)
